@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Magister in Economics, SGH Warsaw School of Economics, 2004
+* Dipl. Volkswirt, University of Mainz, 2004
+* Ph.D in Economics, European University Institute, Florence, 2010 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021--now: Researcher 
+  * Department of Quantitative Economics
+  * SGH Warsaw School of Economics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2010--2020: Assistant Professor
+  * Decision Analysis and Support Unit
+  * SGH Warsaw School of Economics
+
+* 2010--2021: Consultant
+  * Departament of Macroeconomic Studies and Finance
+  * Statistics Poland
 
 Publications
 ======
