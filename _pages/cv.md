@@ -13,7 +13,7 @@ Education
 ======
 * Magister in Economics, SGH Warsaw School of Economics, 2004
 * Dipl. Volkswirt, University of Mainz, 2004
-* Ph.D in Economics, European University Institute, Florence, 2010 (expected)
+* Ph.D in Economics, European University Institute, Florence, 2010
 
 Work experience
 ======
