@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Michał Lewandowski"
   avatar           : "ml.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Economics researcher"
+  location         : "Warsaw, Poland"
+  employer         : "SGH Warsaw School of Economics"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=c4VTqNsAAAAJ&hl=pl&oi=sra"
   email            :
