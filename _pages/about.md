@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am doing research in decision-making under risk, uncertainty, temporal delay and strategic uncertainty.
+I am doing research in decision-making under risk, ambiguity, temporal delay and strategic uncertainty.
