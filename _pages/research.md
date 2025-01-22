@@ -42,7 +42,7 @@ play of a lottery. For an individual who cares not only about profit at the end,
 also on how early these profits accrue, we apply a modified version of the axioms of subjective
 expected utility to obtain the Discounted Incremental Utility model. 
 
-[Individual and collective rationality in carpooling](files/Carpooling game.pdf)
+[Individual and collective rationality in carpooling](files/Carpoolinggame.pdf)
 
 joint work with [Pawel Kalczynki](https://scholar.google.com/citations?user=RfvpViEAAAAJ&hl=en)
 
