@@ -14,7 +14,7 @@ My research can be accesses via my [Google Scholar](https://scholar.google.com/c
 I am currenty working on several papers. Preliminary drafts are available below:
 
 
-[Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf)
+[Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf), joint with Jacek Chudziak
 
 **Abstract:** We consider the following biseparable representation of the certainty equivalent:
 $F(x, y; p) = u^{−1}(w(p)u(x) + (1 − w(p))u(y))$, where $(x, y; p)$ is the binary monetary
@@ -26,7 +26,7 @@ where w is the identity function. We discuss the extent to which such models can
 identified, the issue of extending these models to a larger number of payoffs, and draw
 conclusions for model testing.
 
-[Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preference imprecision or uncertainty aversion decomposing WTA and WTP gap for uncertain prospects.pdf)
+[Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preference imprecision or uncertainty aversion decomposing WTA and WTP gap for uncertain prospects.pdf), joint with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://scholar.google.pl/citations?user=nDKUkZMAAAAJ&hl=pl)
 
 **Abstract:** We propose a setup to account for two leading explanations of the WTA-WTP disparity:
 one based on the loss aversion and the other based on preference imprecision. We propose two
@@ -35,14 +35,14 @@ two explanations. Our approach is general and incorporates some of the leading m
 special cases. To illustrate our approach we propose a simple experiment that allows to quantitatively
 decompose the WTA-WTP gap in the two analyzed channels.
 
-[Discounted Incremental Utility](files/Discounted incremenetal Utility.pdf)
+[Discounted Incremental Utility](files/Discounted incremenetal Utility.pdf),  joint [Manel Baucells](https://www.manelbaucells.com/)
 
 **Abstract:** Most decisions involve multiple payoffs over time and under risk, as for instance the sequential
 play of a lottery. For an individual who cares not only about profit at the end, but
 also on how early these profits accrue, we apply a modified version of the axioms of subjective
 expected utility to obtain the Discounted Incremental Utility model. 
 
-[Individual and collective rationality in carpooling](files/Carpooling game.pdf)
+[Individual and collective rationality in carpooling](files/Carpooling game.pdf), joint with [Pawel Kalczynki](https://scholar.google.com/citations?user=RfvpViEAAAAJ&hl=en)
 
 **Abstract:** We define carpooling as a coalition game and present a socially optimal solution that
 minimizes the overall cost of commuting and is stable and fair. Instead of transferring
