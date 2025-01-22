@@ -12,4 +12,4 @@ I conduct research on decision-making under risk, ambiguity, time delays, and st
 
 My research can be accesses via my [Google Scholar](https://scholar.google.com/citations?user=c4VTqNsAAAAJ&hl=pl&oi=sra), [ResearchGate](https://www.researchgate.net/profile/Michal-Lewandowski-4) or [ORCID](https://orcid.org/0000-0002-6003-1859) profiles. 
 
-I am currenty working on several projects. Preliminary drafts are available in [Current research](/research)
+I am currenty working on several projects. Preliminary drafts are available in [Current research](/research/)
