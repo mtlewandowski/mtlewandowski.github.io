@@ -13,7 +13,7 @@ I conduct research on decision-making under risk, ambiguity, time delays, and st
 My research can be accesses via my Google Scholar, ResearchGate or ORCID profiles linked on the left.
 I am currenty working on several papers in a draft form:
 
-[Discounted Incremental Utility](/files/Discounted incremental Utility.pdf)
+[Discounted Incremental Utility](files/Discounted incremenetal Utility.pdf)
 
 
 
