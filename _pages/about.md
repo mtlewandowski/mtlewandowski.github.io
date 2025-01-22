@@ -15,8 +15,20 @@ I am currenty working on several papers in a draft form:
 
 
 [Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf)
+We consider the following biseparable representation of the certainty equivalent:
+$F(x, y; p) = u−1(w(p)u(x) + (1 − w(p))u(y))$, where $(x, y; p)$ is the binary monetary
+prospect, u is the utility function, and w is the probability weighting function. We
+provide a simple set of axioms characterizing this form for all binary prospects as well
+as for the subset of binary prospects, called simple prospects, in which one of the two
+payoffs is fixed. We consider both the case of general w and the case of expected utility,
+where w is the identity function. We discuss the extent to which such models can be
+identified, the issue of extending these models to a larger number of payoffs, and draw
+conclusions for model testing.
+
 [Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preference imprecision or uncertainty aversion decomposing WTA and WTP gap for uncertain prospects.pdf)
+
 [Discounted Incremental Utility](files/Discounted incremenetal Utility.pdf)
+
 [Individual and collective rationality in carpooling](files/Carpooling game.pdf)
 
 
