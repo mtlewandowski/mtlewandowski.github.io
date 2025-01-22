@@ -8,7 +8,7 @@ redirect_from:
 
 I am currenty working on several papers. Preliminary drafts are available below:
 
-[Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf)
+[Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf)
 
 joint work with [Jacek Chudziak](https://www.researchgate.net/profile/Jacek-Chudziak)
 
