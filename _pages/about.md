@@ -14,7 +14,7 @@ My research can be accesses via my [Google Scholar](https://scholar.google.com/c
 I am currenty working on several papers. Preliminary drafts are available below:
 
 
-[Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf), joint with Jacek Chudziak
+[Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf), joint with [Jacek Chudziak](https://www.researchgate.net/profile/Jacek-Chudziak)
 
 **Abstract:** We consider the following biseparable representation of the certainty equivalent:
 $F(x, y; p) = u^{−1}(w(p)u(x) + (1 − w(p))u(y))$, where $(x, y; p)$ is the binary monetary
