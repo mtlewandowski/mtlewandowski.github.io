@@ -33,7 +33,7 @@ two explanations. Our approach is general and incorporates some of the leading m
 special cases. To illustrate our approach we propose a simple experiment that allows to quantitatively
 decompose the WTA-WTP gap in the two analyzed channels.
 
-[Discounted Incremental Utility](files/Discounted incremenetal Utility.pdf)
+[Discounted Incremental Utility](files/DiscountedincrementalUtility.pdf)
 
 joint work with [Manel Baucells](https://www.manelbaucells.com/)
 
