@@ -51,6 +51,6 @@ and assignment of drivers within carpools. We develop a three-step solution proc
 where our final solution is based on the stable pre-nucleolus of the underlying game. The
 results of computational experiments show that our procedure guarantees substantial
 gains from carpooling. These gains increase with the number of commuters and are
-comparable to gains achieved by centralized systems, which ignore stability and fairness
+comparable to gains achieved by centralized systems, which ignore stability and fairness.
 
 
