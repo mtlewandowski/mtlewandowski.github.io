@@ -22,7 +22,7 @@ where w is the identity function. We discuss the extent to which such models can
 identified, the issue of extending these models to a larger number of payoffs, and draw
 conclusions for model testing.
 
-[Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preference imprecision or uncertainty aversion decomposing WTA and WTP gap for uncertain prospects.pdf)
+[Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preferenceimprecision.pdf)
 
 joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://scholar.google.pl/citations?user=nDKUkZMAAAAJ&hl=pl)
 
