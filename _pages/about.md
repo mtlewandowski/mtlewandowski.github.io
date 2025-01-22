@@ -17,7 +17,7 @@ I am currenty working on several papers in a draft form:
 [Biseparable representations of the certainty equivalents](files/Biseparable representations of CE.pdf)
 [Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preference imprecision or uncertainty aversion decomposing WTA and WTP gap for uncertain prospects.pdf)
 [Discounted Incremental Utility](files/Discounted incremenetal Utility.pdf)
-
+[Individual and collective rationality in carpooling](files/Carpooling game.pdf)
 
 
 
