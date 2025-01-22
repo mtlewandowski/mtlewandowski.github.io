@@ -14,8 +14,6 @@ My research can be accesses via my [Google Scholar](https://scholar.google.com/c
 
 I am currenty working on several projects. Preliminary drafts are available below
 
-I am currenty working on several papers. Preliminary drafts are available below:
-
 [Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf)
 
 joint work with [Jacek Chudziak](https://www.researchgate.net/profile/Jacek-Chudziak)
