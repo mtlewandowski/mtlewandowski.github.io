@@ -39,15 +39,6 @@ two explanations. Our approach is general and incorporates some of the leading m
 special cases. To illustrate our approach we propose a simple experiment that allows to quantitatively
 decompose the WTA-WTP gap in the two analyzed channels.
 
-[Discounted Incremental Utility](files/DiscountedincrementalUtility.pdf)
-
-joint work with [Manel Baucells](https://www.manelbaucells.com/)
-
-**Abstract:** Most decisions involve multiple payoffs over time and under risk, as for instance the sequential
-play of a lottery. For an individual who cares not only about profit at the end, but
-also on how early these profits accrue, we apply a modified version of the axioms of subjective
-expected utility to obtain the Discounted Incremental Utility model. 
-
 [Individual and collective rationality in carpooling](files/Carpoolinggame.pdf)
 
 joint work with [Pawel Kalczynki](https://scholar.google.com/citations?user=RfvpViEAAAAJ&hl=en)
