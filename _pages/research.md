@@ -22,7 +22,7 @@ Jakubczyk, M., Lewandowski, M. (2024), [How sure are you?—the properties of se
 Lewandowski, M., Woźny, Ł. (2022), [On reference dependence and complementary symmetry](https://www.sciencedirect.com/science/article/pii/S0022249622000116?casa_token=1Pivq-I4gMMAAAAA:Z7xv7nzdSJpxye5G9y6JiI41OkaTUI6VPuly96c-aEKhJbGY0DVP00ehcef0iqA_5Hy133-WNQ),
 <br>**JOURNAL OF MATHEMATICAL PSYCHOLOGY**, vol. 108, pp. 106–116,
 
-Koloch, G., Lewandowski, M., Zientara, M., Grodecki, G., Matuszak, P., Kantorski, I., Nowacki, A. (2021). [A genetic algorithm for vehicle routing in logistic networks with practical constraints.]([https://bibliotekanauki.pl/articles/1981356.pdf](https://www.ceeol.com/search/article-detail?id=1007130))
+Koloch, G., Lewandowski, M., Zientara, M., Grodecki, G., Matuszak, P., Kantorski, I., Nowacki, A. (2021). [A genetic algorithm for vehicle routing in logistic networks with practical constraints.](https://bibliotekanauki.pl/articles/1981356.pdf)
 <br>**STATISTICAL REVIEW**, 68(3), pp. 16-40.
 
 Kontek, K., Lewandowski, M. (2018), [Range-dependent utility](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.2744?casa_token=NTfG7-XlGIwAAAAA:MQ6dmqn6jnH8eUQFcdYKt0QHg3fsXrkzOKhGhwNluVYWvr90k4NsUVaEjuxBBb3R0xfTS95aCTY), 
@@ -31,13 +31,13 @@ Kontek, K., Lewandowski, M. (2018), [Range-dependent utility](https://pubsonline
 Lewandowski, M. (2018), [Complementary symmetry in Cumulative Prospect Theory with random reference](https://www.sciencedirect.com/science/article/pii/S0022249617300408?casa_token=_Oev4L1PjuAAAAAA:K2adeQLDt82aLcY1DBT764toL_WBMHXpoXj_yAYPgiLMsIT5S3v1tY3i5GDY7g3lCQkaujJIxA), 
 <br>**JOURNAL OF MATHEMATICAL PSYCHOLOGY**, vol. 82, pp. 52–55,
 
-Lewandowski, M. (2017), [Prospect Theory versus Expected Utility Theory: Assumptions, predictions, intuition and modelling of risk attitudes](https://cejeme.pan.pl/previousvolumes.aspx), 
+Lewandowski, M. (2017), [Prospect Theory versus Expected Utility Theory: Assumptions, predictions, intuition and modelling of risk attitudes](https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.oai-journals-pan-pl-106527/c/oai-journals-pan-pl-106527_full-text_mainFile.pdf), 
 <br>**CENTRAL EUROPEAN JOURNAL OF ECONOMIC MODELLING AND ECONOMETRICS**, vol. 9, pp. 275–321,
 
 Lewandowski, M. (2014), [Buying and selling price for risky lotteries and Expected Utility theory with gambling wealth](https://link.springer.com/article/10.1007/s11166-014-9191-2), 
 <br>**JOURNAL OF RISK AND UNCERTAINTY**, vol. 48(3), pp. 253–283,
 
-Lewandowski, M. (2013), [Risk Attitudes, Buying and Selling Price for a Lottery and Simple Strategies](https://cejeme.pan.pl/previousvolumes.aspx), 
+Lewandowski, M. (2013), [Risk Attitudes, Buying and Selling Price for a Lottery and Simple Strategies](https://bibliotekanauki.pl/articles/483243.pdf), 
 <br>**CENTRAL EUROPEAN JOURNAL OF ECONOMIC MODELLING AND ECONOMETRICS**, vol. 5(1), pp. 1–34,
 
 Lewandowski, M. (2010), Buying and Selling Price for Risky Lotteries and Expected Utility Theory without Consequentialism, 
