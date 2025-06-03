@@ -50,6 +50,7 @@ without Consequentialism, **Quantitative Methods in Economics**, vol. 11(1), pp.
 Lewandowski, M. (2010), Sprawozdanie z XIX Europejskich Warsztatów EWGET, **Decyzje**, vol.
 14, pp. 135–141
 
+
 **Book chapters**
 
 Baucells, M., Leclerc, P., Lewandowski, M., Merrick, J. (2024), Predicting Behavior in Games:
