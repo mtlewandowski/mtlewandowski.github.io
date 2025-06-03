@@ -8,7 +8,7 @@ redirect_from:
 
 Below is a list of mu publications. Details can be found in my research profiles such as ORCID or Google Scholar
 
-**Journal articles**
+<u>**Journal articles**<u>
 
 Charemza, W., Lewandowski, M., Woźny, Ł. (2024), On journal rankings and researchers’ abilities,
 <br>**JOURNAL OF INFORMETRICS**, vol. 18 (3), pp. 101559,
