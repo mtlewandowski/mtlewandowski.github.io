@@ -8,4 +8,4 @@ date: 2025-06-013
 location: "Warsaw, Poland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I teach part of the course. We do axiomatic decision theory.
