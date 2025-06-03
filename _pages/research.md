@@ -10,8 +10,10 @@ Below is a list of my publications. Details can be found in my research profiles
 
 <ins>**Journal articles**<ins>
 
-Charemza, W., Lewandowski, M., Woźny, Ł. (2024), On journal rankings and researchers’ abilities,
+Charemza, W., Lewandowski, M., Woźny, Ł. (2024), [On journal rankings and researchers’ abilities](https://www.sciencedirect.com/science/article/pii/S1751157724000725),
 <br>**JOURNAL OF INFORMETRICS**, vol. 18 (3), pp. 101559,
+
+
 
 Baucells, M., Lewandowski, M., Kontek, K. (2024), A Contextual Range-Dependent Model for Choice under Risk, 
 <br>**JOURNAL OF MATHEMATICAL PSYCHOLOGY**, vol. 118, pp. 102–118,
