@@ -20,7 +20,7 @@ Jakubczyk, M., Lewandowski, M. (2024), How sure are you?—the properties of sel
 <br>**THEORY AND DECISION**, pp. 351–368,
 
 Lewandowski, M., Woźny, Ł. (2022), On reference dependence and complementary symmetry,
-**JOURNAL OF MATHEMATICAL PSYCHOLOGY**, vol. 108, pp. 106–116,
+<br>**JOURNAL OF MATHEMATICAL PSYCHOLOGY**, vol. 108, pp. 106–116,
 
 Koloch, G., Lewandowski, M., Zientara, M., Grodecki, G., Matuszak, P., Kantorski, I., Nowacki, A. (2021). A genetic algorithm for vehicle routing in logistic networks with practical constraints.
 <br>**STATISTICAL REVIEW**, 68(3), pp. 16-40.
