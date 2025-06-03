@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced master course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "SGH Warsaw School of Economics, Department of Quantitative Economics"
-date: 2014-01-01
+date: 2025-06-03
 location: "Warsaw, Poland"
 ---
 
