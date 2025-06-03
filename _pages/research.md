@@ -43,17 +43,22 @@ Lewandowski, M. (2013), Risk Attitudes, Buying and Selling Price for a Lottery a
 Lewandowski, M. (2010), Buying and Selling Price for Risky Lotteries and Expected Utility Theory without Consequentialism, 
 <br>**QUANTITATIVE METHODS IN ECONOMICS**, vol. 11(1), pp. 223–253,
 
-Lewandowski, M. (2010), Sprawozdanie z XIX Europejskich Warsztatów EWGET, 
-<br>**DECYZJE**, vol. 14, pp. 135–141
 
-
-**Book chapters**
+<br><br>**Book chapters**
 
 Baucells, M., Leclerc, P., Lewandowski, M., Merrick, J. (2024), Predicting Behavior in Games:
 Loss Aversion vs. Rank Dependent Utility vs. Range Utility Theory, w: Federspiel F., Montibeller
 G., Seifert M. (red.) **Behavioral Decision Analysis**: Designing and Using Prescriptive
 Decision Support Models, International Series in Operations Research & Management Science,
 vol. 350, Springer, ss. 145–164,
+
+Jakubczyk, M., Kamiński, B., Lewandowski, M. (2018), Eliciting Fuzzy Preferences Towards 
+Health States with Discrete Choice Experiments, w: Berger-Vachon, C., Gil Lafuente, A.,
+Kacprzyk, J., Kondratenko, Y., Merigó, J., Morabito, C. (red.) **Complex Systems: Solutions
+and Challenges in Economics, Management and Engineering**, Studies in Systems, Decision
+and Control, vol 125. Springer, ss. 131—147,
+
+<br><br>**Publications in Polish**
 
 Lewandowski, M. (2021), Teoria Gier, w: Jakubczyk M., Kamiński B., Szaprio T. (red.) **Modelowanie
 Decyzji w Arkuszu Kalkulacyjnym**, Oficyna Wydawnicza SGH, Warszawa, ss. 71–126,
@@ -62,11 +67,8 @@ Lewandowski, M. (2021), Willingness-to-pay and willingness-to-accept for a lotte
 point in prospect theory, w: Kamiński B., Kuszewski T., Jakubczyk M. (red.) **Zagadnienia
 wspomagania i analizy decyzji**, Oficyna Wydawnicza SGH, Warszawa, ss. 268—296,
 
-Jakubczyk, M., Kamiński, B., Lewandowski, M. (2018), Eliciting Fuzzy Preferences Towards 
-Health States with Discrete Choice Experiments, w: Berger-Vachon, C., Gil Lafuente, A.,
-Kacprzyk, J., Kondratenko, Y., Merigó, J., Morabito, C. (red.) **Complex Systems: Solutions
-and Challenges in Economics, Management and Engineering**, Studies in Systems, Decision
-and Control, vol 125. Springer, ss. 131—147,
+Lewandowski, M. (2010), Sprawozdanie z XIX Europejskich Warsztatów EWGET, 
+<br>**DECYZJE**, vol. 14, pp. 135–141
 
 
 
