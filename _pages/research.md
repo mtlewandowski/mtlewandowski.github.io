@@ -8,9 +8,10 @@ redirect_from:
 
 Below is a list of mu publications. Details can be found in my research profiles such as ORCID, google scholar or Researchgate
 
-**Journal articles**
+<br>**Journal articles**\
 
-Charemza, W., Lewandowski, M., Woźny, Ł. (2024), On journal rankings and researchers’ abilities,
+<ol>
+<li> Charemza, W., Lewandowski, M., Woźny, Ł. (2024), On journal rankings and researchers’ abilities,
 <br>**JOURNAL OF INFORMETRICS**, vol. 18 (3), pp. 101559,
 
 Baucells, M., Lewandowski, M., Kontek, K. (2024), A Contextual Range-Dependent Model for Choice under Risk, 
@@ -44,7 +45,7 @@ Lewandowski, M. (2010), Buying and Selling Price for Risky Lotteries and Expecte
 <br>**QUANTITATIVE METHODS IN ECONOMICS**, vol. 11(1), pp. 223–253,
 
 
-<br><br>**Book chapters**
+<br>**Book chapters**
 
 Baucells, M., Leclerc, P., Lewandowski, M., Merrick, J. (2024), Predicting Behavior in Games:
 Loss Aversion vs. Rank Dependent Utility vs. Range Utility Theory, w: Federspiel F., Montibeller
@@ -58,7 +59,7 @@ Kacprzyk, J., Kondratenko, Y., Merigó, J., Morabito, C. (red.) **Complex System
 and Challenges in Economics, Management and Engineering**, Studies in Systems, Decision
 and Control, vol 125. Springer, ss. 131—147,
 
-<br><br>**Publications in Polish**
+<br>**Publications in Polish**
 
 Lewandowski, M. (2021), Teoria Gier, w: Jakubczyk M., Kamiński B., Szaprio T. (red.) **Modelowanie
 Decyzji w Arkuszu Kalkulacyjnym**, Oficyna Wydawnicza SGH, Warszawa, ss. 71–126,
