@@ -44,7 +44,7 @@ Lewandowski, M. (2010), Buying and Selling Price for Risky Lotteries and Expecte
 <br>**QUANTITATIVE METHODS IN ECONOMICS**, vol. 11(1), pp. 223–253,
 
 
-<br>**Book chapters**
+<br><ins>**Book chapters**<ins>
 
 Baucells, M., Leclerc, P., Lewandowski, M., Merrick, J. (2024), Predicting Behavior in Games:
 Loss Aversion vs. Rank Dependent Utility vs. Range Utility Theory, w: Federspiel F., Montibeller
@@ -58,7 +58,7 @@ Kacprzyk, J., Kondratenko, Y., Merigó, J., Morabito, C. (red.) **Complex System
 and Challenges in Economics, Management and Engineering**, Studies in Systems, Decision
 and Control, vol 125. Springer, ss. 131—147,
 
-<br>**Publications in Polish**
+<br><ins>**Publications in Polish**<ins>
 
 Lewandowski, M. (2021), Teoria Gier, w: Jakubczyk M., Kamiński B., Szaprio T. (red.) **Modelowanie
 Decyzji w Arkuszu Kalkulacyjnym**, Oficyna Wydawnicza SGH, Warszawa, ss. 71–126,
