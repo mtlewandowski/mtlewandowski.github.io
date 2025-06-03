@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-Below is a list of mu publications. Details can be found in my research profiles such as ORCID or Google Scholar
+Below is a list of my publications. Details can be found in my research profiles such as ORCID or Google Scholar
 
 <ins>**Journal articles**<ins>
 
