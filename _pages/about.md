@@ -51,3 +51,20 @@ where our final solution is based on the stable pre-nucleolus of the underlying 
 results of computational experiments show that our procedure guarantees substantial
 gains from carpooling. These gains increase with the number of commuters and are
 comparable to gains achieved by centralized systems, which ignore stability and fairness.
+
+[Analiza krytyczna metody weryfikacji wyników wyborów
+przedstawionej w (Kontek K., Weryfikacja wyniku drugiej tury
+wyborów prezydenckich w Polsce w 2025 roku: Przeliczenie głosów
+z użyciem przestrzennie grupowanej metody MAD)](files/Manipulacje_Kontka.pdf)
+
+joint work with Mariusz Kozakiewicz, Bogusz Lewandowski, Pawel Kalczynski
+
+**Abstract:** This paper presents a methodological and substantive critique of (Kontek K., 2025, Reassessing poland’s 2024 presidential runoff: Using spatially-grouped mad
+detection to recalculate the result. available at: https://ssrn.com/abstract=5296435.),
+which analyzes the impact of anomalies on the second round of Polish presidential election outcomes
+in 2025. We identify a key flaw: anomalies are detected only when favoring one candidate,
+with reverse cases omitted. First, we replicate the original results. Second, using the same method,
+we include reverse anomalies, showing how selective the original approach was. Third, we
+question the validity of the methodology and the conclusions drawn. We argue that the findings
+in the original study are methodologically biased and therefore unjustified.
+Keywords: outlier detection, robust statistics, election manipulations
