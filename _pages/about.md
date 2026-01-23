@@ -14,7 +14,7 @@ My research can be accesses via my [Google Scholar](https://scholar.google.com/c
 
 I am currenty working on several projects. Preliminary drafts are available below
 
-[Loss aversion or preference imprecision? What drives the WTA-WTP disparity?](files/lossaversion.pdf)
+[Loss aversion or preference imprecision? What drives the WTA-WTP disparity?](files/lossaversion.pdf) submitted
 
 joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://e-web.sgh.waw.pl/michal.jakubczyk/)
 
@@ -26,7 +26,7 @@ joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubcz
 
 **Abstract:** We report results of an experiment decomposing the disparity between willingness-to-pay (WTA) and willingness-to-pay (WTP) into two leading motives: loss aversion and preference imprecision. Our experiment is based on a method developed in a related paper Lewandowski M., Woźny Ł., Jakubczyk M., Loss aversion or preference imprecision? What drives the WTA-WTP disparity?
 
-[Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf)
+[Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf) submitted
 
 joint work with [Jacek Chudziak](https://www.researchgate.net/profile/Jacek-Chudziak)
 
@@ -40,7 +40,7 @@ where w is the identity function. We discuss the extent to which such models can
 identified, the issue of extending these models to a larger number of payoffs, and draw
 conclusions for model testing.
 
-[Individual and collective rationality in carpooling](files/Carpoolinggame.pdf)
+[Individual and collective rationality in carpooling](files/Carpoolinggame.pdf) forthcoming in **European Journal of Operational Research**
 
 joint work with [Pawel Kalczynki](https://scholar.google.com/citations?user=RfvpViEAAAAJ&hl=en)
 
