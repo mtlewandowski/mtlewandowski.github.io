@@ -10,6 +10,9 @@ Below is a list of my publications. Details can be found in my research profiles
 
 <ins>**Journal articles**<ins>
 
+Kalczysnki, P., Lewandowski, M. (in press), [Individual and collective rationality in carpooling](https://www.sciencedirect.com/science/article/abs/pii/S0377221725008562),
+<br>**EUROPEAN JOURNAL OF OPERATIONAL RESEARCH**, 
+
 Charemza, W., Lewandowski, M., Woźny, Ł. (2024), [On journal rankings and researchers’ abilities](https://www.sciencedirect.com/science/article/pii/S1751157724000725),
 <br>**JOURNAL OF INFORMETRICS**, vol. 18 (3), pp. 101559,
 
