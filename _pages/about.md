@@ -16,13 +16,13 @@ I am currenty working on several projects. Preliminary drafts are available belo
 
 [Loss aversion or preference imprecision? What drives the WTA-WTP disparity?](files/lossaversion.pdf) (submitted)
 
-Companion paper: [Experimental illustration](files/lossaversionexperiment.pdf)
-
 joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://e-web.sgh.waw.pl/michal.jakubczyk/)
 
 **Abstract:** We propose a framework that, while eliminating the endowment effect, accounts for the two leading explanations of the disparity between willingness to accept (WTA) and willingness to pay (WTP): loss aversion and preference imprecision. Our approach applies to incomplete preferences under both risk and ambiguity. We introduce axioms that characterize the disparity and each of its two components. We show that the WTA-WTP disparity is a monetary measure (i.e., a premium) of uncertainty aversion, with hedging, rather than risk, serving as the neutrality benchmark. We derive comparative statics results for this measure with respect to both individuals and prospects. Our framework is general and encompasses several models, including multiple-utility multiple-prior models, as special cases.
 
-**Abstract companion paper:** We report results of an experiment decomposing the disparity between willingness-to-pay (WTA) and willingness-to-pay (WTP) into two leading motives: loss aversion and preference imprecision. Our experiment is based on a method developed in a related paper Lewandowski M., Woźny Ł., Jakubczyk M., Loss aversion or preference imprecision? What drives the WTA-WTP disparity?
+Companion paper: [Loss aversion or preference imprecision? What drives the WTA-WTP disparity? **Experimental illustration**](files/lossaversionexperiment.pdf)
+
+**Abstract:** We report results of an experiment decomposing the disparity between willingness-to-pay (WTA) and willingness-to-pay (WTP) into two leading motives: loss aversion and preference imprecision. Our experiment is based on a method developed in a related paper Lewandowski M., Woźny Ł., Jakubczyk M., *Loss aversion or preference imprecision? What drives the WTA-WTP disparity?*
 
 [Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf) (submitted)
 
