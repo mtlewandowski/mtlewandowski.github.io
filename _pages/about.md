@@ -26,7 +26,7 @@ joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubcz
 
 **Abstract:** We report results of an experiment decomposing the disparity between willingness-to-pay (WTA) and willingness-to-pay (WTP) into two leading motives: loss aversion and preference imprecision. Our experiment is based on a method developed in a related paper Lewandowski M., Woźny Ł., Jakubczyk M., Loss aversion or preference imprecision? What drives the WTA-WTP disparity?
 
-[Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf) submitted
+[Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf) (submitted)
 
 joint work with [Jacek Chudziak](https://www.researchgate.net/profile/Jacek-Chudziak)
 
