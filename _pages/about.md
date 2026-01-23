@@ -15,6 +15,7 @@ My research can be accesses via my [Google Scholar](https://scholar.google.com/c
 I am currenty working on several projects. Preliminary drafts are available below
 
 [Loss aversion or preference imprecision? What drives the WTA-WTP disparity?](files/lossaversion.pdf) (submitted)
+
 Companion paper: [Loss aversion or preference imprecision? What drives the WTA-WTP disparity? An experimental illustration](files/lossaversionexperiment.pdf)
 
 joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://e-web.sgh.waw.pl/michal.jakubczyk/)
