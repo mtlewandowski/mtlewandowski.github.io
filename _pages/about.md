@@ -14,6 +14,18 @@ My research can be accesses via my [Google Scholar](https://scholar.google.com/c
 
 I am currenty working on several projects. Preliminary drafts are available below
 
+[Loss aversion or preference imprecision? What drives the WTA-WTP disparity?](files/Loss aversion or preference imprecision.pdf)
+
+joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://e-web.sgh.waw.pl/michal.jakubczyk/)
+
+**Abstract:** We propose a framework that, while eliminating the endowment effect, accounts for the two leading explanations of the disparity between willingness to accept (WTA) and willingness to pay (WTP): loss aversion and preference imprecision. Our approach applies to incomplete preferences under both risk and ambiguity. We introduce axioms that characterize the disparity and each of its two components. We show that the WTA-WTP disparity is a monetary measure (i.e., a premium) of uncertainty aversion, with hedging, rather than risk, serving as the neutrality benchmark. We derive comparative statics results for this measure with respect to both individuals and prospects. Our framework is general and encompasses several models, including multiple-utility multiple-prior models, as special cases.
+
+[Loss aversion or preference imprecision? What drives the WTA-WTP disparity? An experimental illustration](files/Loss aversion of preference imprecision experimental illustration.pdf)
+
+joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://e-web.sgh.waw.pl/michal.jakubczyk/)
+
+**Abstract:** We report results of an experiment decomposing the disparity between willingness-to-pay (WTA) and willingness-to-pay (WTP) into two leading motives: loss aversion and preference imprecision. Our experiment is based on a method developed in a related paper Lewandowski M., Woźny Ł., Jakubczyk M., Loss aversion or preference imprecision? What drives the WTA-WTP disparity?
+
 [Biseparable representations of the certainty equivalents](files/Biseparablerepresentations.pdf)
 
 joint work with [Jacek Chudziak](https://www.researchgate.net/profile/Jacek-Chudziak)
@@ -27,17 +39,6 @@ payoffs is fixed. We consider both the case of general w and the case of expecte
 where w is the identity function. We discuss the extent to which such models can be
 identified, the issue of extending these models to a larger number of payoffs, and draw
 conclusions for model testing.
-
-[Preference imprecision or uncertainty aversion - decomposing WTA and WTP gap for uncertain prospects](files/Preferenceimprecision.pdf)
-
-joint work with [Łukasz Woźny](https://lwozny.github.io/) and [Michał Jakubczyk](https://scholar.google.pl/citations?user=nDKUkZMAAAAJ&hl=pl)
-
-**Abstract:** We propose a setup to account for two leading explanations of the WTA-WTP disparity:
-one based on the loss aversion and the other based on preference imprecision. We propose two
-axioms that allows us to distinguish the part of WTA-WTP disparity atributed to each of these
-two explanations. Our approach is general and incorporates some of the leading models as
-special cases. To illustrate our approach we propose a simple experiment that allows to quantitatively
-decompose the WTA-WTP gap in the two analyzed channels.
 
 [Individual and collective rationality in carpooling](files/Carpoolinggame.pdf)
 
