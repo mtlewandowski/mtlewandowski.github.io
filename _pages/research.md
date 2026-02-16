@@ -16,9 +16,7 @@ Kalczynski, P., Lewandowski, M. (in press), [Individual and collective rationali
 Charemza, W., Lewandowski, M., Woźny, Ł. (2024), [On journal rankings and researchers’ abilities](https://www.sciencedirect.com/science/article/pii/S1751157724000725),
 <br>**JOURNAL OF INFORMETRICS**, vol. 18 (3), pp. 101559,
 
-[slkj](files/lossaversionexperiment.pdf)
-
-Baucells, M., Lewandowski, M., Kontek, K. (2024), [A Contextual Range-Dependent Model for Choice under Risk](https://www.sciencedirect.com/science/article/pii/S0022249623000779?casa_token=f3CnFexw3qgAAAAA:uN6QcDKISHKSoK09DQgpadSpujLv7WIhPzQZZFxbhcB-mNPoFhRXCzrOSdpKd79l0H8Jecp5fQ), [Offprint](mtlewandowski.github.io/files/rut.pdf),
+Baucells, M., Lewandowski, M., Kontek, K. (2024), [A Contextual Range-Dependent Model for Choice under Risk](https://www.sciencedirect.com/science/article/pii/S0022249623000779?casa_token=f3CnFexw3qgAAAAA:uN6QcDKISHKSoK09DQgpadSpujLv7WIhPzQZZFxbhcB-mNPoFhRXCzrOSdpKd79l0H8Jecp5fQ), [Offprint](href="/files/rut.pdf"),
 <br>**JOURNAL OF MATHEMATICAL PSYCHOLOGY**, vol. 118, pp. 102–118,
 
 Jakubczyk, M., Lewandowski, M. (2024), [How sure are you?—the properties of self-reported conviction in the elicitation of health preferences with discrete choice experiments](https://link.springer.com/article/10.1007/s11238-023-09951-x), 
