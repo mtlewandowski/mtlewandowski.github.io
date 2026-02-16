@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
+  - /research/
+  - /research.html
 ---
 
 Below is a list of my publications. Details can be found in my research profiles such as ORCID or Google Scholar
